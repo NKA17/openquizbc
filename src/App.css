@@ -1,0 +1,17 @@
+.App {
+  text-align: left;
+
+}
+
+
+.App div{
+  /* background-image: linear-gradient(to bottom right,  #1b63d6,#0b3372) !important */
+}
+.container .title {
+  font-size: 40px;
+  font-weight: Bold;
+}
+
+.App .navbar {
+  background-color:lightblue !important
+}
